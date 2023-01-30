@@ -1,0 +1,33 @@
+#app-header{
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    height: 175px;
+}
+
+#logo{
+    width: 70%;
+    padding-top: 80px;
+    margin: auto;
+}
+
+#app-main{
+    width: 70%;
+    margin: auto;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h3{
+    color: #858585;
+}
+
+h4{
+    color: #858585;
+}
+
+#photo-desc{
+    font-style: italic;
+    font-size: 11px;
+}
