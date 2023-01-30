@@ -1,3 +1,8 @@
+body{
+    text-align: left;
+    font-style: inherit;
+}
+
 #app-header{
     background-image: url(../img/pattern.png);
     background-color: #4ea0ff;
@@ -29,5 +34,9 @@ h4{
 
 #photo-desc{
     font-style: italic;
-    font-size: 11px;
+    font-size: 12px;
+}
+
+.yellow{
+    background-color: #ffff00;
 }
